@@ -1,0 +1,11 @@
+{
+  "name": "DriveSafe Buddy",
+  "short_name": "DriveSafe Buddy",
+  "description": "Experimental browser-based driver drowsiness warning concept",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": []
+}
